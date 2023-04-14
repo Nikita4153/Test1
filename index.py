@@ -1,3 +1,3 @@
-print('Terraria is the best game')
-for i in range(6):
-    print(i)
+a = int(input)
+for i in range(a):
+    print(a)
